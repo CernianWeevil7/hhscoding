@@ -1,2 +1,2 @@
-# hhscodingclub.github.io
+# hhscoding.github.io
 minigames
