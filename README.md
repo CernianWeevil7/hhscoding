@@ -1,2 +1,2 @@
-# hhscoding.github.io
+# https://cernianweevil7.github.io/hhscoding/
 minigames
